@@ -1,0 +1,39 @@
+#banner {
+	width:20%;
+}
+nav {
+		position: absolute;
+		top: 50px;
+		right: 110px;
+	}
+
+.caixa {
+		padding: 50px;
+	}
+.table {
+	border: 2px solid #000000;
+	padding: 50px;
+}
+form {
+	font-weight: bold;
+}
+.nascimento {
+	width: 20%;
+}
+
+#data{
+	padding: 25px 0 15px 0;
+}
+
+
+.tipocontato {
+	font-weight: initial;
+}
+
+.origemcontato{
+	padding: 40px 0	 0 0;
+}
+
+.checkbox {
+	padding: 40px;
+}
